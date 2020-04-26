@@ -9,7 +9,7 @@ Effectively a Grammar consists of an arbitrary number of Rules and a Rule consis
 
 ## 2. Using the design you created for question 1, write a program which first parses the grammatical rules from a text file into your data structure and then uses the data to generate a random poem.
 
-An example of the working program can be obtained by cloning this project onto a machine with .NET Core 2.1 installed and running the following command in the root of the project folder.
+An example of the working program can be obtained by cloning this project onto a machine with [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.201-windows-x64-installer) installed and running the following command in the root of the project folder.
 
 ```
 > dotnet run -- example-grammar.txt
