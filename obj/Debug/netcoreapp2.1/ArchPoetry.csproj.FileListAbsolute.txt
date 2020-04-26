@@ -1,0 +1,11 @@
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\bin\Debug\netcoreapp2.1\ArchPoetry.deps.json
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\bin\Debug\netcoreapp2.1\ArchPoetry.runtimeconfig.json
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\bin\Debug\netcoreapp2.1\ArchPoetry.runtimeconfig.dev.json
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\bin\Debug\netcoreapp2.1\ArchPoetry.dll
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\bin\Debug\netcoreapp2.1\ArchPoetry.pdb
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\obj\Debug\netcoreapp2.1\ArchPoetry.csprojAssemblyReference.cache
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\obj\Debug\netcoreapp2.1\ArchPoetry.csproj.CoreCompileInputs.cache
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\obj\Debug\netcoreapp2.1\ArchPoetry.AssemblyInfoInputs.cache
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\obj\Debug\netcoreapp2.1\ArchPoetry.AssemblyInfo.cs
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\obj\Debug\netcoreapp2.1\ArchPoetry.dll
+C:\Users\ericr\OneDrive\Documents\ArchPoetry\obj\Debug\netcoreapp2.1\ArchPoetry.pdb
