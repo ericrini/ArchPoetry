@@ -1,3 +1,6 @@
+# ArchPoetry
+This is a code sample for Arch Insurance. This [PDF](./docs/definition.pdf) goes over the specific details of the problem.
+
 ## 1. Create a class diagram which can be used to describe all the different elements of the grammatical rules and their relationships.
 
 Effectively a Grammar consists of an arbitrary number of Rules and a Rule consists of 1 or more Expressions. In more complex grammars, I am sure there would be different types of Expressions. However for this task, I felt like I was able to clearnly cover all of the logic with only one type of Expression.
@@ -10,6 +13,24 @@ An example of the working program can be obtained by cloning this project onto a
 
 ```
 > dotnet run -- example-grammar.txt
+```
+
+Here are examples of some output.
+
+```
+outside rain
+meadow with flavor flows around thunder
+sea
+pasture
+underneath water across black moon beneath brother
+```
+
+```
+her white murky
+your mother climbs
+her sea beyond black flower across mother descends
+moon beside your white time outside my harvest flies through clear thunder
+moon under flavor
 ```
 
 ## 3. Upon completion, explain how (at a high level) you might adapt this program to generate a haiku (in 2 – 3 sentences).
